@@ -1,2 +1,3 @@
 # seminar
-my repository
+my repository  first commit
+
